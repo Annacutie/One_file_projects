@@ -1,5 +1,4 @@
 letters = ['b', 'a', 'z']
-#numbers = [4, 2, 1, 3]
 def swap(lis):
     temp=lis[0]
     lis[0]=lis[1]
